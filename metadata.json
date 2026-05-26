@@ -1,0 +1,6 @@
+{
+  "name": "QuickBite",
+  "description": "A modern, high-fidelity food delivery application designed with interactive features and a premium violet Editorial Aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
